@@ -181,10 +181,12 @@ Estoy desarrollando mis habilidades mediante la práctica, nuevos retos y proyec
 
 Explorar ideas, diseñar soluciones y convertir conceptos en proyectos reales.
 
-`STATUS: EXPLORING`
+`STATUS: HTML5, CSS, HeidiSQL, Xampp, Apache2, mariadb`
+
+[🌐 Cursos Web](https://namycoco.github.io/cursos-web/) · [ 👑 Mini Trello Margaret](https://namycoco.github.io/PythonNew/)
 
 </td>
-    <td width="50%" valign="top">
+<td width="50%" valign="top">
 
 ### 🧬 EXPERIMENTO_002
 
@@ -192,12 +194,14 @@ Explorar ideas, diseñar soluciones y convertir conceptos en proyectos reales.
 
 Aprender nuevos lenguajes, resolver problemas y descubrir mejores formas de programar.
 
-`STATUS: LEARNING`
+`STATUS: API Integration`
+
+[.𖥔 ݁ ˖🛸── .✦Simulador Alien ](https://github.com/Namycoco/controlador) · [☄️ Asteroide](https://github.com/Namycoco/asteroide) · [🌦️ Weather](https://github.com/Namycoco/weather)
 
 </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🔮 EXPERIMENTO_003
 
@@ -205,10 +209,12 @@ Aprender nuevos lenguajes, resolver problemas y descubrir mejores formas de prog
 
 Investigar tecnologías, herramientas y posibilidades más allá de lo conocido.
 
-`STATUS: DISCOVERING`
+`STATUS: Video Games with Godot and Unity`
+
+[🍎 Delicious Apples](https://github.com/Namycoco/deliciousapples) · [🐉 Green Wings](https://github.com/Namycoco/namycoco.github.io)
 
 </td>
-    <td width="50%" valign="top">
+<td width="50%" valign="top">
 
 ### 🚀 EXPERIMENTO_004
 
@@ -216,11 +222,12 @@ Investigar tecnologías, herramientas y posibilidades más allá de lo conocido.
 
 Construir proyectos propios, experimentar sin miedo y mejorar con cada intento.
 
-`STATUS: EVOLVING`
+`STATUS: HTML5 - CSS - JAVASCRIPT - PYTHON`
 
-</td>
-  </tr>
-</table>
+[🧮 Calculadora de Nóminas](https://github.com/Namycoco/calcular_nomina) · [ 📅 Tablas de multiplicar](https://github.com/Namycoco/tablas_multiplicar)
+
+</td></tr>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/IMAGINATION-UNLOCKED-9D7BFF?style=for-the-badge" alt="Imaginación desbloqueada" />
