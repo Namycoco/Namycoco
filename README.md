@@ -127,9 +127,6 @@ Estoy desarrollando mis habilidades mediante la práctica, nuevos retos y proyec
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Namycoco&layout=donut&hide_border=true&bg_color=0D0B18&title_color=B794F6&text_color=E6E1F5&langs_count=6" height="180" alt="Lenguajes más utilizados" />
 </p>
 
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Namycoco&bg_color=0D0B18&color=B794F6&line=00E5FF&point=FFFFFF&area=true&area_color=6D28D9&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" alt="Gráfico de actividad de GitHub" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Namycoco&theme=midnight-purple&hide_border=true&background=0D0B18&ring=B794F6&fire=00E5FF&currStreakLabel=B794F6&sideLabels=E6E1F5&dates=9CA3AF" width="70%" alt="Racha de contribuciones" />
