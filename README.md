@@ -44,6 +44,26 @@
 
 ---
 
+<!-- ⫘⫘⫘⫘⫘⫘ SKILL CONSTELLATION + PERSONAL TERMINAL ─•────-->
+
+<h2 align="center">⌬ SKILL CONSTELLATION · PERSONAL TERMINAL</h2>
+
+<p align="center"> <img src="./imagen3.png" width="100%" alt="Constelación de habilidades blandas y terminal personal de Noemí" /> </p>
+
+██████████████████████████████████████████████████████████████████████████████████▒▒▒▒▒
+```text
+> booting_namycoco_system...
+> loading_skills...........[OK]
+> creativity..............[MAX]
+> learning_mode...........[ACTIVE]
+> future_developer........[IN PROGRESS]
+
+[████████████████████] 100%
+
+✦ SYSTEM READY — LET'S BUILD SOMETHING.
+```
+
+
 ## 🪐 02 · MI UNIVERSO TECNOLÓGICO
 
 ### 💻 LENGUAJES DE PROGRAMACIÓN
@@ -210,10 +230,19 @@ Construir proyectos propios, experimentar sin miedo y mejorar con cada intento.
   <img src="https://img.shields.io/badge/POTENTIAL-IN%20PROGRESS-00D9FF?style=for-the-badge" alt="Potencial en desarrollo" />
 </p>
 
+
+<h2 align="center">★・・・・・・★★・・・・・・★★・・・・・・★★・・・・・・★★・・・・・・★★・・・・・・★</h2>
+
+<p align="center">
+  <img src="./imagen5.gif"
+       width="85%"
+       height="180"
+       alt="Namycoco Pixel Portal">
+</p>
+
 <p align="center">
   <em>«Las mejores ideas empiezan con un “¿y si lo intento?”»</em>
 </p>
-
 ---
 
 
