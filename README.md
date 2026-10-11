@@ -1,7 +1,7 @@
 <!-- 🌌 NAMYCOCO · FUTURISTIC PROFILE README 🌌 -->
 
 <p align="center">
-  <img src="./imagen2.png" width="100%" alt="Banner futurista de Noemí" />
+  <img src="./0.jpg" width="100%" alt="Imagen" height="400" />
 </p>
 
 <h1 align="center">
