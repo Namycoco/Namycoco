@@ -233,6 +233,7 @@ Construir proyectos propios, experimentar sin miedo y mejorar con cada intento.
 [🧮 Calculadora de Nóminas](https://github.com/Namycoco/calcular_nomina) · [ 📅 Tablas de multiplicar](https://github.com/Namycoco/tablas_multiplicar)
 
 </td></tr>
+</table>
 
 
 <p align="center">
