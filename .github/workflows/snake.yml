@@ -1,0 +1,34 @@
+
+name: Generate Snake  
+
+on:    #cuando se ejecuta el proceso
+  schedule:  # Se ejecuta cada día a medianoche UTC
+    - cron: "0 0 * * *"
+  workflow_dispatch:      # Permite ejecutarlo manualmente desde Actions
+  push:       # También se ejecuta cuando hay cambios en main o master
+    branches:
+      - main
+      - master
+
+permissions:       # Permisos para guardar la imagen generada
+  contents: write
+
+jobs:         # Tareas que ejecutará GitHub
+  generate:
+    runs-on: ubuntu-latest            # Usa una máquina virtual con Ubuntu
+    steps:
+      - name: Generate snake animation         # Genera la animación de la serpiente
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: Namycoco
+          outputs: |             # Ruta donde se guarda la imagen SVG
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Publish to output branch        # Publica la imagen en la rama output
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output              # Rama donde se publicará la imagen
+          build_dir: dist               # Carpeta que contiene la imagen generada
+        env:            # Token de GitHub para autorizar la publicación
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
