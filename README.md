@@ -1,7 +1,5 @@
 <!-- 🌌 NAMYCOCO · FUTURISTIC PROFILE README 🌌 -->
 
-![Snake animation](https://raw.githubusercontent.com/Namycoco/Namycoco/output/github-contribution-grid-snake.svg)
-
 <p align="center">
   <img src="./0.jpg" width="100%" alt="Imagen" height="400" />
 </p>
@@ -250,6 +248,9 @@ Construir proyectos propios, experimentar sin miedo y mejorar con cada intento.
   <em>«Las mejores ideas empiezan con un “¿y si lo intento?”»</em>
 </p>
 ---
+
+
+![Snake animation](https://raw.githubusercontent.com/Namycoco/Namycoco/output/github-contribution-grid-snake.svg)
 
 
 
