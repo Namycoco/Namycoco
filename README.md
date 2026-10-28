@@ -1,12 +1,18 @@
 <!-- 🌌 NAMYCOCO · FUTURISTIC PROFILE README 🌌 -->
 
+ ![Namycoco](https://capsule-render.vercel.app/api?type=Speech&color=0:00E5FF,35:B8A2FF,70:E8C8FF,100:7B2CFF&height=100&section=header&text=𝐍𝐚𝐦𝐲𝐜𝐨𝐜𝐨&fontSize=65&fontColor=080612&fontAlignY=50&animation=fadeIn)
+<!--
 <p align="center">
   <img src="./0.jpg" width="100%" alt="Imagen" height="400" />
 </p>
 
+-->
+
 <h1 align="center">
-・‥…━━━━━━━☆Bienvenido a mi perfil · NOEMÍ 💙
-   
+
+  ・‥…━━━━━━━☆
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=25&pause=1000&color=B8A2FF&center=true&vCenter=true&width=500&lines=Hello,+I+am+Noemi;Welcome+to+my+profile)
+
   
 </h1>
 
@@ -237,12 +243,15 @@ Construir proyectos propios, experimentar sin miedo y mejorar con cada intento.
 
 <h2 align="center">★・・・・・・★★・・・・・・★★・・・・・・★★・・・・・・★★・・・・・・★★・・・・・・★</h2>
 
+<!--
 <p align="center">
   <img src="./imagen5.gif"
        width="85%"
        height="180"
        alt="Namycoco Pixel Portal">
 </p>
+
+-->
 
 <p align="center">
   <em>«Las mejores ideas empiezan con un “¿y si lo intento?”»</em>
