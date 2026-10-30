@@ -126,11 +126,11 @@ Estoy desarrollando mis habilidades mediante la práctica, nuevos retos y proyec
 
 ## 🌠 04 · MI ACTIVIDAD EN GITHUB
 
+
 ## ⚡ GITHUB // LIVE DASHBOARD
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Namycoco&show_icons=true&count_private=true&hide_border=true&bg_color=0D0B18&title_color=B794F6&text_color=E6E1F5&icon_color=00E5FF&ring_color=B794F6&include_all_commits=true" height="180" alt="Estadísticas de GitHub de Noemí" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Namycoco&layout=donut&hide_border=true&bg_color=0D0B18&title_color=B794F6&text_color=E6E1F5&langs_count=6" height="180" alt="Lenguajes más utilizados" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Namycoco&layout=donut&hide_border=true&bg_color=0D0B18&title_color=B794F6&text_color=E6E1F5&langs_count=6&cache_seconds=1800" height="180" alt="Lenguajes más utilizados" />
 </p>
 
 
@@ -147,6 +147,7 @@ Estoy desarrollando mis habilidades mediante la práctica, nuevos retos y proyec
 <p align="center">
   <em>「 Cada commit es un paso hacia una versión mejor de mí. 」</em>
 </p>
+
 
 
 ##  05 · CONECTA CONMIGO ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮
