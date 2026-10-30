@@ -129,9 +129,11 @@ Estoy desarrollando mis habilidades mediante la práctica, nuevos retos y proyec
 
 ## ⚡ GITHUB // LIVE DASHBOARD
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Namycoco&layout=donut&hide_border=true&bg_color=0D0B18&title_color=B794F6&text_color=E6E1F5&langs_count=6&cache_seconds=1800" height="180" alt="Lenguajes más utilizados" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Namycoco&layout=donut&hide_border=true&bg_color=0D0B18&title_color=B794F6&text_color=E6E1F5&langs_count=6" height="180" alt="Lenguajes más utilizados" />
 </p>
+
 
 
 <p align="center">
