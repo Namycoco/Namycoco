@@ -1,6 +1,6 @@
 <!-- 🌌 NAMYCOCO · FUTURISTIC PROFILE README 🌌 -->
 
- ![Namycoco](https://capsule-render.vercel.app/api?type=Speech&color=0:00E5FF,35:B8A2FF,70:E8C8FF,100:7B2CFF&height=100&section=header&text=𝐍𝐚𝐦𝐲𝐜𝐨𝐜𝐨&fontSize=65&fontColor=080612&fontAlignY=50&animation=fadeIn)
+![Namycoco](https://capsule-render.vercel.app/api?type=Speech&color=0:001B4D,35:007BFF,70:00CFFF,100:00F5FF&height=100&section=header&text=𝐍𝐚𝐦𝐲𝐜𝐨𝐜𝐨&fontSize=65&fontColor=FFFFFF&fontAlignY=50&animation=fadeIn)
 <!--
 <p align="center">
   <img src="./0.jpg" width="100%" alt="Imagen" height="400" />
@@ -11,7 +11,7 @@
 <h1 align="center">
 
   ・‥…━━━━━━━☆
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=25&pause=1000&color=B8A2FF&center=true&vCenter=true&width=500&lines=Hello,+I+am+Noemi;Welcome+to+my+profile)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=25&pause=1000&color=00CFFF&center=true&vCenter=true&width=500&lines=Hello,+I+am+Noemi;Welcome+to+my+profile)
 
   
 </h1>
@@ -29,9 +29,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-EN%20FORMACI%C3%93N-9D4EDD?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/STATUS-EN%20FORMACI%C3%93N-007BFF?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/PASSION-TECH-00D9FF?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/MINDSET-CREATIVO-FF4DDE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MINDSET-CREATIVO-00CFFF?style=for-the-badge" />
 </p>
 
 ---
@@ -49,6 +49,8 @@
 > ➤ *La creatividad imagina el futuro; el código lo hace posible.*
 
 ---
+
+
 
 <!-- ⫘⫘⫘⫘⫘⫘ SKILL CONSTELLATION + PERSONAL TERMINAL ─•────-->
 
@@ -129,21 +131,18 @@ Estoy desarrollando mis habilidades mediante la práctica, nuevos retos y proyec
 
 ## ⚡ GITHUB // LIVE DASHBOARD
 
-
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Namycoco&layout=donut&hide_border=true&bg_color=0D0B18&title_color=B794F6&text_color=E6E1F5&langs_count=6" height="180" alt="Lenguajes más utilizados" />
-</p>
-
-
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Namycoco&theme=midnight-purple&hide_border=true&background=0D0B18&ring=B794F6&fire=00E5FF&currStreakLabel=B794F6&sideLabels=E6E1F5&dates=9CA3AF" width="70%" alt="Racha de contribuciones" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Namycoco&layout=donut&hide_border=true&bg_color=050B18&title_color=00CFFF&text_color=E0F7FF&langs_count=6" height="180" alt="Lenguajes más utilizados" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-CREATING-9D7BFF?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/MODE-LEARNING-00D9FF?style=for-the-badge&logo=visualstudiocode&logoColor=black" />
-  <img src="https://img.shields.io/badge/NEXT_LEVEL-UNLOCKING-171528?style=for-the-badge&logo=rocket&logoColor=B794F6" />
+  <img src="https://streak-stats.demolab.com?user=Namycoco&theme=dark&hide_border=true&background=050B18&ring=008CFF&fire=00D9FF&currStreakLabel=00CFFF&sideLabels=E0F7FF&dates=75A9CC" width="70%" alt="Racha de contribuciones" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-CREATING-008CFF?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/MODE-LEARNING-00CFFF?style=for-the-badge&logo=visualstudiocode&logoColor=001B36" />
+  <img src="https://img.shields.io/badge/NEXT_LEVEL-UNLOCKING-003B70?style=for-the-badge&logo=rocket&logoColor=00D9FF" />
 </p>
 
 <p align="center">
@@ -151,12 +150,11 @@ Estoy desarrollando mis habilidades mediante la práctica, nuevos retos y proyec
 </p>
 
 
-
 ##  05 · CONECTA CONMIGO ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮
 
 <p align="center">
   <a href="https://github.com/Namycoco">
-    <img src="https://img.shields.io/badge/GITHUB-NAMYCOCO-9D4EDD?style=for-the-badge&logo=github&logoColor=white" alt="Perfil de GitHub de Noemí" />
+    <img src="https://img.shields.io/badge/GITHUB-NAMYCOCO-008CFF?style=for-the-badge&logo=github&logoColor=white" alt="Perfil de GitHub de Noemí" />
   </a>
 </p>
 
@@ -173,7 +171,7 @@ Estoy desarrollando mis habilidades mediante la práctica, nuevos retos y proyec
 ## 🧬 THE NOEMI LAB
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=18&duration=3500&pause=1000&color=9D7BFF&center=true&vCenter=true&width=650&lines=IDEAS+IN+PROGRESS;CREATIVITY+MEETS+CODE;EXPERIMENT.+LEARN.+INNOVATE." alt="Ideas en progreso" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=18&duration=3500&pause=1000&color=00CFFF&center=true&vCenter=true&width=650&lines=IDEAS+IN+PROGRESS;CREATIVITY+MEETS+CODE;EXPERIMENT.+LEARN.+INNOVATE." alt="Ideas en progreso" />
 </p>
 
 <p align="center">
@@ -240,12 +238,10 @@ Construir proyectos propios, experimentar sin miedo y mejorar con cada intento.
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/IMAGINATION-UNLOCKED-9D7BFF?style=for-the-badge" alt="Imaginación desbloqueada" />
+  <img src="https://img.shields.io/badge/IMAGINATION-UNLOCKED-008CFF?style=for-the-badge" alt="Imaginación desbloqueada" />
   <img src="https://img.shields.io/badge/POTENTIAL-IN%20PROGRESS-00D9FF?style=for-the-badge" alt="Potencial en desarrollo" />
 </p>
 
-
-<h2 align="center">★・・・・・・★★・・・・・・★★・・・・・・★★・・・・・・★★・・・・・・★★・・・・・・★</h2>
 
 <!--
 <p align="center">
