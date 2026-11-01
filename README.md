@@ -36,7 +36,7 @@
 
 ---
 
-## 💫 01 · SOBRE MÍ
+##  01 · SOBRE MÍ
 
 ¡Hola! Soy **Noemí**, estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**, apasionada por la tecnología, la programación y la creación de soluciones digitales.
 
@@ -49,30 +49,54 @@
 > ➤ *La creatividad imagina el futuro; el código lo hace posible.*
 
 ---
+<div align="center">
+<pre>
+  
+          ______________________________________
+         /                                     /|
+        /   NAMYCOCO // DEV STATION           / |
+       /_____________________________________/  |
+       |                                     |  |
+       |   ┌─────────────────────────────┐   |  |
+       |   │                             │   |  |
+       |   │   C:\> NAMYCOCO             │   |  |
+       |   │                             │   |  |
+       |   │   CPU   [████████]  ONLINE  │   |  |
+       |   │   RAM   [██████░░]  READY   │   |  |
+       |   │   SSD   [████████]  READY   │   |  |
+       |   │                             │   |  |
+       |   │   > BUILDING THE FUTURE_    │   |  /
+       |   └─────────────────────────────┘   | /
+       |_____________________________________|/
+       /_______________________________________\
+      /  [] [] [] [] [] [] [] [] [] [] [] []    \
+     /  [] [] [] [] [] [] [] [] [] [] [] []      \
+    /____________________________________________\
+    |                                            |
+    |                __________                  |
+    |               |          |                 |
+    |               | TOUCHPAD |                 |
+    |               |__________|                 |
+    |____________________________________________|
+
+           NAMYCOCO // 2026 
+
+</pre>
+</div>
 
 
+<!-- ⫘⫘⫘⫘⫘⫘ PERSONAL TERMINAL ─•────-->
 
-<!-- ⫘⫘⫘⫘⫘⫘ SKILL CONSTELLATION + PERSONAL TERMINAL ─•────-->
-
-<h2 align="center">⌬ SKILL CONSTELLATION · PERSONAL TERMINAL</h2>
+<h2 align="center"> <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=800&color=00CFFF&center=true&vCenter=true&width=600&lines=INITIALIZING+NAMYCOCO+OS...;LOADING+DEVELOPER+PROFILE...;CREATIVITY+ENGINE%3A+ACTIVE;LEARNING+MODE%3A+ENABLED;FUTURE+DEVELOPER%3A+IN+PROGRESS" />
+</p>
 
 <p align="center"> <img src="./imagen3.png" width="100%" alt="Constelación de habilidades blandas y terminal personal de Noemí" /> </p>
 
-██████████████████████████████████████████████████████████████████████████████████▒▒▒▒▒
-```text
-> booting_namycoco_system...
-> loading_skills...........[OK]
-> creativity..............[MAX]
-> learning_mode...........[ACTIVE]
-> future_developer........[IN PROGRESS]
-
-[████████████████████] 100%
-
-✦ SYSTEM READY — LET'S BUILD SOMETHING.
-```
 
 
-## 🪐 02 · MI UNIVERSO TECNOLÓGICO
+
+##  02 · MI UNIVERSO TECNOLÓGICO
 
 ### 💻 LENGUAJES DE PROGRAMACIÓN
 
@@ -111,7 +135,7 @@
 
 ---
 
-## 🔮 03 · LO QUE ME MOTIVA
+##  03 · LO QUE ME MOTIVA
 
 <p align="center">
   💡 <strong>CREAR</strong> &nbsp; ◈ &nbsp;
@@ -126,10 +150,8 @@ Estoy desarrollando mis habilidades mediante la práctica, nuevos retos y proyec
 
 ---
 
-## 🌠 04 · MI ACTIVIDAD EN GITHUB
+##  04 · MI ACTIVIDAD EN GITHUB
 
-
-## ⚡ GITHUB // LIVE DASHBOARD
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Namycoco&layout=donut&hide_border=true&bg_color=050B18&title_color=00CFFF&text_color=E0F7FF&langs_count=6" height="180" alt="Lenguajes más utilizados" />
@@ -195,7 +217,7 @@ Explorar ideas, diseñar soluciones y convertir conceptos en proyectos reales.
 </td>
 <td width="50%" valign="top">
 
-### 🧬 EXPERIMENTO_002
+###  EXPERIMENTO_002
 
 **Lógica en construcción**
 
@@ -210,7 +232,7 @@ Aprender nuevos lenguajes, resolver problemas y descubrir mejores formas de prog
 <tr>
 <td width="50%" valign="top">
 
-### 🔮 EXPERIMENTO_003
+###  EXPERIMENTO_003
 
 **Nuevos universos**
 
@@ -223,7 +245,7 @@ Investigar tecnologías, herramientas y posibilidades más allá de lo conocido.
 </td>
 <td width="50%" valign="top">
 
-### 🚀 EXPERIMENTO_004
+###  EXPERIMENTO_004
 
 **De idea a realidad**
 
